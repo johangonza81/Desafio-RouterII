@@ -5,7 +5,7 @@ import { Home } from "./views/Home";
 import { Pokemons } from "./views/Pokemons";
 import { Personajes } from "./views/Personajes";
 import { NotFound } from "./views/NotFound";
-import ConsumeApi from './components/ConsumeApi';
+
 
 
 
